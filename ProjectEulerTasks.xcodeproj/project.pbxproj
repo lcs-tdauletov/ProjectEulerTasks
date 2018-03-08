@@ -25,7 +25,7 @@
 /* Begin PBXFileReference section */
 		0E7EEF89204F04EA003003B1 /* ProjectEulerTasks */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = ProjectEulerTasks; sourceTree = BUILT_PRODUCTS_DIR; };
 		0E7EEF8C204F04EA003003B1 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
-		0E7EEF93204F053A003003B1 /* ProjectEuler.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = ProjectEuler.playground; sourceTree = "<group>"; };
+		0E7EEF93204F053A003003B1 /* ProjectEuler.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = ProjectEuler.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
