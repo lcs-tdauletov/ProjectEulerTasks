@@ -1,4 +1,31 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<playground version='5.0' target-platform='macos'>
-    <timeline fileName='timeline.xctimeline'/>
+<playground version='6.0' target-platform='macos'>
+    <pages>
+        <page name='Challenge with primes'/>
+        <page name='Everlastingfirstchallenge'/>
+        <page name='The programming lessons_commencement'/>
+        <page name='The first lecture'/>
+        <page name='Fibonacci_challenge2'/>
+        <page name='The challenge number four'/>
+        <page name='Links for life'/>
+        <page name='Challenge 5'/>
+        <page name='Bubble sort lecture'/>
+        <page name='Selection sort lecture'/>
+        <page name='OOP'/>
+        <page name='The car class'/>
+        <page name='Challenge 6'/>
+        <page name='Challenge 7'/>
+        <page name='Challenge 8(charArray2)'/>
+        <page name='OOP(polymorph)'/>
+        <page name='OOP( inheritance)'/>
+        <page name='Pythagorean Triplet'/>
+        <page name='Challenge 10'/>
+        <page name='The OOP homework'/>
+        <page name='The challenge 11(24 signal)'/>
+        <page name='Collatz problems'/>
+        <page name='Generics _ lecture '/>
+        <page name='Stack_ lecture'/>
+        <page name='The queue practice'/>
+        <page name='The route problem'/>
+    </pages>
 </playground>
