@@ -12,4 +12,4 @@ func fibonacci(_ n: Int) -> Int {
     return fibonacci(n - 1) + fibonacci(n - 2)
 }
 
-fibonacci(5)
+print(fibonacci(100))

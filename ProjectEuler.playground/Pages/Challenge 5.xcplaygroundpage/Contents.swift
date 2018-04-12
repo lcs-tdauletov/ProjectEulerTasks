@@ -5,18 +5,18 @@ var ans: Bool = false
 
 outer: while true {
     inner: for i in 1...20{
-        if num % i == 0 {
-            ans = true
-        } else {
-            ans = false
-            break inner
+                if num % i == 0 {
+                    ans = true
+                } else {
+                    ans = false
+                    break inner
+                }
         }
-    }
     
-    if ans {
-        print(num)
-        break outer
-    }
+            if ans {
+                print(num)
+                break outer
+        }
     
     num += 1
 }

@@ -11,7 +11,4 @@ func hello_world (_ numberOfTimes: Int) -> String {
 print(hello_world(10))
 
 
-func derivativeCalculator (input: String ) -> String {
-    var k : Double = 0
- 
-}
+

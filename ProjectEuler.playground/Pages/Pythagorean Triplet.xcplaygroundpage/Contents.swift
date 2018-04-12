@@ -12,6 +12,5 @@ outer: for c in 1...1_000 {
 }
 
 
-// Question: 111, 121??
 
 
