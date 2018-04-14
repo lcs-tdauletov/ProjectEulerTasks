@@ -25,4 +25,3 @@ perfectNumberIndentifier(10)
 
 
 
-
