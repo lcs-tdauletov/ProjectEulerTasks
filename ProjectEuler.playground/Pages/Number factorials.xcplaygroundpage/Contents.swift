@@ -23,3 +23,7 @@ while theCandidate < 2540160{
     theCandidate += 1
 }
 print(globalSum - 3)
+
+
+let value = factorialCalculator(5)
+print(value)
