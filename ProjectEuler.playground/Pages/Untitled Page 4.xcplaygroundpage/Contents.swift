@@ -34,3 +34,18 @@ func search(_ array: [Int], _ numb: Int) -> Int? {
 
 print(search(emptyRandomArray, 87)!)
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
